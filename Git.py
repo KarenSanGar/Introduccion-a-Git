@@ -1,6 +1,6 @@
 # Hola Mundo
 print("¡Hola Mundo!")
 print ("Hola Karen y Grace!")	
+print("¡Hola a todos los que están aprendiendo Python!")
 
-print("hola karen")
 print("Estoy haciendo otro commit")
