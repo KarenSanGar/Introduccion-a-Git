@@ -1,5 +1,4 @@
 # Hola Mundo
 print("¡Hola Mundo!")
 print ("Hola Karen y Grace!")	
-
-print("Hola grace")
+print("¡Hola a todos los que están aprendiendo Python!")
